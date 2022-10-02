@@ -1,4 +1,4 @@
-# Learn DevOps
+# The DevOps Guide
 
 ## What is DevOps?
 DevOps is all about getting your solutions to run efficiently from deployment to updates.
