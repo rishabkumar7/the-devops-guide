@@ -14,7 +14,7 @@ Fireship explained this really well in this video ["DevOps CI/CD explained in 10
 
 ## Continuous Integration
 
-The objective of continuous integration (CI) is to create code that works rapidly. Successful CI means the progressions to an application are constructed, tried and merged routinely. This integration can happen quite often, and it for the most part includes automated test cases and a well-defined build sequence that minimizes errors. The fundamental center while utilizing CI approaches ought to be:
+One of the core practices of DevOps is continuous integration, which has developers commit their code to a shared repository, often on a daily basis. The objective of continuous integration (CI) is to create code that works rapidly. Successful CI means the progressions to an application are constructed, tried and merged routinely. Each commit triggers an automated workflow on a CI server that can notify developers of any issues integrating their changes. When a repo evolves in small steps like this, it prevents what's known as merge hell or integration hell (as we saw above). This integration can happen quite often, and it for the most part includes automated test cases and a well-defined build sequence that minimizes errors. The fundamental center while utilizing CI approaches:
 
 - Smaller code: reduce the size of your contributions to the main branch, and make them more frequently. This will make it easy to detect bugs early and reduce conflicts with other contributors. Smaller integrations also mean test cases can run faster and your code becomes available to others that might be impacted by your feature.
 - Automated testing: Although there are CI "pipelines" that do not use automated testing, in practice automation vastly outweighs the benefits of manual testing. If a developer is integrating code several times a day, manual testing becomes troublesome and inconsistent.
@@ -24,7 +24,7 @@ In [Altassians](https://www.atlassian.com/continuous-delivery/continuous-integra
 
 ## Continuos Deployment
 
-Although it varies from team to team, Continuous Deployment will refer to code that, when integrated, is also deployed automatically to the live production site of the app. There's no human intervention, and only a failed test will prevent a new change to be deployed to production.The reason this and Continuous Delivery are often both included in CD is because typical CI/CD pipelines will include both, and they both compliment each other.
+Continuous Deployment refers to code that, when integrated/merged, is deployed automatically to the productions environment of the app. There's no human intervention, amd only a failed test will prevent a new change/feature to be deployed to production. The reason this and Continuous Delivery are often both included in CD is because typical CI/CD pipelines will include both, and they both compliment each other.
 
 ## Steps in a CI-CD Pipeline
 
