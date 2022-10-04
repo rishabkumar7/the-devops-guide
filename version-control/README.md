@@ -4,11 +4,12 @@
 
 ## What is a Version Control System?
 
-Version control is the ability to understand the various changes that happened to the code over time (and possibly roll back). All these are enabled by using a version control system such as Git. A Git repository can live on one’s machine, but it usually lives on a central online or on-prem repository
+Version control is the ability to understand the various changes that happened to the code over time (and possibly roll back). All these are enabled by using a version control system such as Git. A Git repository can live on one’s machine, but it usually lives on a central online or on-prem repository.
 Benefits are:
-• Collaborate with other developers
-• Make sure the code is backed-up somewhere
-• Make sure it’s fully viewable and auditable
+
+- Collaborate with other developers
+- Make sure the code is backed-up somewhere
+- Make sure it’s fully viewable and auditable
 
 You might ask why Git? Git is a de facto standard.
 Git is the most broadly adopted tool of its kind. Vast numbers of developers already have Git experience and a significant proportion of college graduates may have experience with Git.
