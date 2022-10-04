@@ -2,7 +2,7 @@
 
 ## What is CI-CD?
 
-It is a development methodology, known as Continuous Integration and Continuous Delivery/Deployment (CI/CD), addresses common issues that arise throughout the integration process. It gets more challenging to maintain a working main branch that is free of defects and mistakes as more developers work in parallel. The integration process is automated with CI/CD, and the app's lifecycle is continuously observed. The goal of this practise is to prevent "integration hell," which occurs when several developers who have been working on different features independently find it difficult to integrate all of their code without significant conflicts and must take the time to examine all of their code to correct it.
+It is a development methodology, known as Continuous Integration and Continuous Delivery/Deployment (CI/CD), addresses common issues that arise throughout the integration process. It gets more challenging to maintain a working main branch that is free of defects and mistakes as more developers work in parallel. The integration process is automated with CI/CD, and the app's lifecycle is continuously observed. The goal of this practice is to prevent "integration hell," which occurs when several developers who have been working on different features independently find it difficult to integrate all of their code without significant conflicts and must take the time to examine all of their code to correct it.
 
 Here is what "integration hell" means according to [Innovation Roots](https://innoroo.com/blog/2018/03/19/integration-hell-glossary/)
 > Integration Hell is one of the biggest challenges in traditional software development environments. The Integration process is very rarely smooth and seamless, and results in hours of re-fixing the code, sometimes leading up to days, before it can finally integrate. One of the biggest challenges being the dependency relationship between the code that’s built, and the rest of the code in the system.
@@ -14,7 +14,24 @@ Fireship explained this really well in this video ["DevOps CI/CD explained in 10
 
 ## Continuous Integration
 
+The objective of continuous integration (CI) is to create code that works rapidly. Successful CI means the progressions to an application are constructed, tried and merged routinely. This integration can happen quite often, and it for the most part includes automated test cases and a well-defined build sequence that minimizes errors. The fundamental center while utilizing CI approaches ought to be:
+
+- Smaller code: reduce the size of your contributions to the main branch, and make them more frequently. This will make it easy to detect bugs early and reduce conflicts with other contributors. Smaller integrations also mean test cases can run faster and your code becomes available to others that might be impacted by your feature.
+- Automated testing: Although there are CI "pipelines" that do not use automated testing, in practice automation vastly outweighs the benefits of manual testing. If a developer is integrating code several times a day, manual testing becomes troublesome and inconsistent.
+
+In [Altassians](https://www.atlassian.com/continuous-delivery/continuous-integration) words:
+> Continuous integration (CI) is the practice of automating the integration of code changes from multiple contributors into a single software project. It’s a primary DevOps best practice, allowing developers to frequently merge code changes into a central repository where builds and tests then run. Automated tools are used to assert the new code’s correctness before integration.
+
 ## Continuos Deployment
+
+Although it varies from team to team, Continuous Deployment will refer to code that, when integrated, is also deployed automatically to the live production site of the app. There's no human intervention, and only a failed test will prevent a new change to be deployed to production.The reason this and Continuous Delivery are often both included in CD is because typical CI/CD pipelines will include both, and they both compliment each other.
+
+## Steps in a CI-CD Pipeline
+
+- Build
+- Test
+- Release
+- Deploy
 
 ## Resources
 
