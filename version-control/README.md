@@ -20,6 +20,7 @@ Git is the most broadly adopted tool of its kind. Vast numbers of developers alr
 | :------------------------------------------------------------------ | :----------------------------------------------------------------------------------------- |
 | [Kunal Kushwaha - Complete Git and GitHub Tutorial](https://youtu.be/apGV9Kg7ics)|  This tutorial will help you with using Git & GitHub for your personal projects.
 | [freeCodeCamp - Git and GitHub for Beginners - Crash Course](https://youtu.be/RGOj5yH7evk)| Learn about Git and GitHub in this tutorial. These are important tools for all developers to understand. This course was developed by Gwen Faraday
+| [Learn Git Branching](https://learngitbranching.js.org/) | Learn Git Branching" is the most visual and interactive way to learn Git
 
 ## Next
 
