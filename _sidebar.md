@@ -9,3 +9,5 @@
   - [4: Configuration Management](configuration-management/README.md)
   - [5: Containerization](containerization/README.md)
   - [6: Monitoring/Observability](monitoring/README.md)
+
+- [Projects](projects.md)
