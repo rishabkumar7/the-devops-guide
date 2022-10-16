@@ -11,3 +11,7 @@
   - [6: Monitoring/Observability](monitoring/README.md)
 
 - [Projects](projects.md)
+
+- Follow Us
+  - [Twitter](https://twitter.com/rishabk7)
+  - [Discord: coming soon](https://thedevops.guide)
