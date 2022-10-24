@@ -1,4 +1,4 @@
-# Welcome to The DevOps Guide :wave
+# Welcome to The DevOps Guide
 
 It is an open-source guide to provide you with an outline of skills needed to learn to get into DevOps. At the end of it you should have the technical knowledge of DevOps.
 
@@ -21,7 +21,9 @@ We have sections/phases which covers fundamentals of DevOps:
 - Containerization
 - Monitoring/Observability
 
-But first, let's understand what DevOps is?
+## Have Questions or Feedback?
+
+Please open an [Issue](https://github.com/rishabkumar7/the-devops-guide/issues)
 
 ## Start here
 
