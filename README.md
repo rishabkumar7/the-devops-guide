@@ -7,6 +7,7 @@ It is an open-source guide to provide you with an outline of skills needed to le
 - Linux
 - Networking
 - Programming Fundamentals (Python)
+
 I highly recommend some fundamental knowledge of Linux, Networking and Programming.
 Maybe we will add these as pre-phases to this guide but for now, checkout [Learn to Cloud Guide](https://learntocloud.guide) as it has some great resources and projects for these prerequisites.
 
