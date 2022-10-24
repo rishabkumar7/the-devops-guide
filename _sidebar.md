@@ -13,5 +13,5 @@
 - [Projects](projects.md)
 
 - Follow Us
-  - [Twitter](https://twitter.com/rishabk7)
+  - [Twitter](https://twitter.com/devopsguide)
   - [Discord: coming soon](https://thedevops.guide)
