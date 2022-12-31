@@ -1,6 +1,6 @@
 # Welcome to The DevOps Guide
 
-It is an open-source guide to provide you with an outline of skills needed to learn to get into DevOps. At the end of it you should have the technical knowledge of DevOps.
+DevOps Guide is an open-source guide to provide you with an outline of skills needed to learn to get into DevOps. At the end of it you should have the technical knowledge of DevOps.
 
 ## Prerequisite
 
@@ -10,6 +10,10 @@ It is an open-source guide to provide you with an outline of skills needed to le
 
 I highly recommend some fundamental knowledge of Linux, Networking and Programming.
 Checkout [Learn to Cloud Guide](https://learntocloud.guide) as it has some great resources and projects for these prerequisites.
+
+## DevOps Engineers can be self-taught?
+
+Yes, [here is how I did it.](https://youtu.be/nI8-qnSMY40)
 
 ## How this Guide works
 
