@@ -9,14 +9,14 @@ It is an open-source guide to provide you with an outline of skills needed to le
 - Programming Fundamentals (Python)
 
 I highly recommend some fundamental knowledge of Linux, Networking and Programming.
-Maybe we will add these as pre-phases to this guide but for now, checkout [Learn to Cloud Guide](https://learntocloud.guide) as it has some great resources and projects for these prerequisites.
+Checkout [Learn to Cloud Guide](https://learntocloud.guide) as it has some great resources and projects for these prerequisites.
 
 ## How this Guide works
 
 We have sections/phases which covers fundamentals of DevOps:
 
-- Continuous integration and continuous deployment (CI/CD)
 - Version Control System (VCS)
+- Continuous integration and continuous deployment (CI/CD)
 - Infrastructure as Code (IaC)
 - Configuration Management
 - Containerization
