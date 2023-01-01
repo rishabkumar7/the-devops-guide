@@ -23,4 +23,4 @@ You can also read on what Microsoft thinks DevOps is?
 
 ## Next
 
-[Go to next phase: CI/CD](../ci-cd/README.md)
+[Go to next chapter: Version Control Systems](../version-control/README.md)

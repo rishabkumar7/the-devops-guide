@@ -42,4 +42,4 @@ Continuous Deployment refers to code that, when integrated/merged, is deployed a
 
 ## Next
 
-[Go to next phase: Version Control System](../version-control/README.md)
+[Go to next chapter: IaC-Infrastructure as Code](../iac/README.md)

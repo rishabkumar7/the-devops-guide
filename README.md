@@ -17,7 +17,7 @@ Yes, [here is how I did it.](https://youtu.be/nI8-qnSMY40)
 
 ## How this Guide works
 
-We have sections/phases which covers fundamentals of DevOps:
+We have following chapters which covers fundamentals of DevOps:
 
 - Version Control System (VCS)
 - Continuous integration and continuous deployment (CI/CD)
