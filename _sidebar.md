@@ -2,9 +2,9 @@
   - [Welcome](/#welcome)
 
 - Guide
-
-  - [1: CI-CD](ci-cd/README.md)
-  - [2: Version Control System](version-control/README.md)
+  - [0: DevOps](devops/README.md)
+  - [1: Version Control System](version-control/README.md)
+  - [2: CI-CD](ci-cd/README.md)
   - [3: Infrastructure as Code](iac/README.md)
   - [4: Configuration Management](configuration-management/README.md)
   - [5: Containerization](containerization/README.md)
@@ -13,5 +13,5 @@
 - [Projects](projects.md)
 
 - Follow Us
-  - [Twitter](https://twitter.com/rishabk7)
+  - [Twitter](https://twitter.com/devopsguide)
   - [Discord: coming soon](https://thedevops.guide)

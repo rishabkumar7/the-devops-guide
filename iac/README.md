@@ -33,4 +33,4 @@ Terraform was developed by [Hashicorp](https://www.hashicorp.com/). It is a conf
 
 ## Next
 
-[Go to next phase: Configuration Management](../configuration-management/README.md)
+[Go to next chapter: Configuration Management](../configuration-management/README.md)

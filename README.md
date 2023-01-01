@@ -1,51 +1,35 @@
-# Welcome to The DevOps Guide :wave
+# Welcome to The DevOps Guide
 
-It is an open-source guide to provide you with an outline of skills needed to learn to get into DevOps. At the end of it you should have the technical knowledge of DevOps.
+DevOps Guide is an open-source guide to provide you with an outline of skills needed to learn to get into DevOps. At the end of it you should have the technical knowledge of DevOps.
 
 ## Prerequisite
 
 - Linux
 - Networking
 - Programming Fundamentals (Python)
+
 I highly recommend some fundamental knowledge of Linux, Networking and Programming.
-Maybe we will add these as pre-phases to this guide but for now, checkout [Learn to Cloud Guide](https://learntocloud.guide) as it has some great resources and projects for these prerequisites.
+Checkout [Learn to Cloud Guide](https://learntocloud.guide) as it has some great resources and projects for these prerequisites.
+
+## DevOps Engineers can be self-taught?
+
+Yes, [here is how I did it.](https://youtu.be/nI8-qnSMY40)
 
 ## How this Guide works
 
-We have sections/phases which covers fundamentals of DevOps:
+We have following chapters which covers fundamentals of DevOps:
 
-- Continuous integration and continuous deployment (CI/CD)
 - Version Control System (VCS)
+- Continuous integration and continuous deployment (CI/CD)
 - Infrastructure as Code (IaC)
 - Configuration Management
 - Containerization
 - Monitoring/Observability
 
-But first, let's understand what DevOps is?
+## Have Questions or Feedback?
 
-## What is DevOps?
-
-DevOps is a movement and a culture before being a job this is why cultural aspects are very important. DevOps is all about getting your solutions to run efficiently from deployment to updates.
-The two groups, operations and development are converged into a single group where the engineers work across the whole SDLC(Software Development Life Cycle).
-The development team that develops the plan, designs and builds the system from scratch and the operation team for testing and implementation of whatever is developed. The operations team gave the development team feedback on any bugs that needed fixing and any rework required. Invariably, the development team would be idle awaiting feedback from the operations team. This undoubtedly extended timelines and delayed the entire software development cycle. There would be instances where the development team moves on to the next project while the operations team continues to provide feedback for the previous code. This meant weeks or even months for the project to be closed and final code to be developed. Now, what if the two departments came together and worked in collaboration with each other?
-
-![Collab](assets/collaboration.webp)
-
-What if the wall of confusion was broken and this is called the DevOps approach? The DevOps symbol resembles an Infinity sign, suggesting that it is a continuous process of improving efficiency and constant activity.
-
-![DevOps](assets/DevOps.webp)
-
-The DevOps approach makes companies adapt faster to updates and development changes. The teams can now deliver quickly and the deployments are more consistent and smooth, though there may be communication challenges, DevOps manages a streamlined flow between the teams and makes the software development process successful.
-
-So in simpler terms, DevOps is a set of practices to build, test and release your code in small, frequent steps.
-
-For reference, this is the definition of DevOps by [AWS](https://aws.amazon.com/devops/what-is-devops/):
-> DevOps is the combination of cultural philosophies, practices, and tools that increases an organization’s ability to deliver applications and services at high velocity: evolving and improving products at a faster pace than organizations using traditional software development and infrastructure management processes. This speed enables organizations to better serve their customers and compete more effectively in the market.
-![AWS DevOps](assets/AWSDevOps.png)
-
-You can also read on what Microsoft thinks DevOps is?
- [Microsoft - What is DevOps](https://azure.microsoft.com/overview/what-is-devops/#overview)
+Please open an [Issue](https://github.com/rishabkumar7/the-devops-guide/issues)
 
 ## Start here
 
-[Go to first phase: Continuous integration and continuous deployment (CI/CD)](ci-cd/README.md)
+[Let's learn what DevOps is?](devops/README.md)
