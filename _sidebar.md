@@ -14,4 +14,3 @@
 
 - Follow Us
   - [Twitter](https://twitter.com/devopsguide)
-  - [Discord: coming soon](https://thedevops.guide)
