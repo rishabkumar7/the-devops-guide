@@ -1,0 +1,9 @@
+{
+  "devops":"DevOps",
+  "version-control-system": "Version Control System",
+  "ci-cd": "Continuous Integration & Continuous Deployment",
+  "iac":"Infrastructure as Code",
+  "configuration-management":"Configuration Management",
+  "containerization":"Containerization",
+  "monitoring":"Monitoring & Observability"
+}
