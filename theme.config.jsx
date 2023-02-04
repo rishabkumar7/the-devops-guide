@@ -8,7 +8,7 @@ export default {
   banner: {
     key: 'devops-guide-github',
     text: <a href="https://github.com/rishabkumar7/the-devops-guide/" target="_blank">
-      🎉 If you liked the guide, conside giving us a star on GitHub →
+      🎉 If you find the guide helpful, consider giving us a star on GitHub →
     </a>,
   },
   // HEAD
@@ -24,7 +24,7 @@ export default {
   // FOOTER 
   footer: {
     text: <span>
-      MIT {new Date().getFullYear()} © <a href="https://thedevops.guide" target="_blank">The DevOps Guide</a>.
+      MIT {new Date().getFullYear()} © <a href="https://thedevops.guide" target="_blank">The DevOps Guide</a>
     </span>,
   }
   // ...
