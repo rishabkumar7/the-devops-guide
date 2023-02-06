@@ -20,7 +20,7 @@ You might have heard of other tools that are specific to a cloud provider, such 
 
 Terraform was developed by [Hashicorp](https://www.hashicorp.com/). It is a configuration orchestration tool that is incredible for provisioning, adjusting and destroying the virtual server environments. It is available both as a DevOps-as-a-Service enterprise-grade from Hashicorp and as an open-source solution, which allows you to work with a variety of Cloud Service Providers to create multi-cloud ecosystems.
 
-![Terraform Diagram](../assets/HashiCorpTerraform.webp)
+![Terraform Diagram](../../assets/HashiCorpTerraform.webp)
 
 ### Resources
 
@@ -31,6 +31,4 @@ Terraform was developed by [Hashicorp](https://www.hashicorp.com/). It is a conf
 | [freeCodeCamp Terraform Course](https://youtu.be/SLB_c_ayRMo) | Terraform Course - Automate your AWS cloud infrastructure |
 | [Terraform notes](https://notes.rishab.cloud/terraform-associate) | Rishab's notes on Terraform |
 
-## Next
 
-[Go to next chapter: Configuration Management](../configuration-management/README.md)

@@ -2,7 +2,7 @@ export default {
   // PROJECT INFO
   logo: <span>The DevOps Guide</span>,
   project: {
-    link: 'https://github.com/rishabkumar7/the-devops-guide',
+    link: 'https://thedevops.guide',
   },
   docsRepositoryBase: 'https://github.com/rishabkumar7/the-devops-guide/blob/main/',
   banner: {
@@ -24,7 +24,7 @@ export default {
   // FOOTER 
   footer: {
     text: <span>
-      MIT {new Date().getFullYear()} © <a href="https://thedevops.guide" target="_blank">The DevOps Guide</a>
+      MIT {new Date().getFullYear()} © <a href="https://thedevops.guide" target="_blank">The DevOps Guide</a> made with ❤️ <a href="https://rishabkumar.com)" target="_blank">Rishab</a>
     </span>,
   }
   // ...

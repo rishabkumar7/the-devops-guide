@@ -10,7 +10,7 @@ Docker is a computer program that performs operating-system-level virtualization
 
 Basic Design:
 Hardware --> Operating System --> Container Engine --> Bins/Libs --> App1 --> Bins/Libs --> App2 --> Bins/Libs --> App3
-![docker vs VM](../../assets/docker-vm.jfif)
+![docker vs VM](../../assets/docker-vm.jpg)
 
 ### Resources for Docker
 
