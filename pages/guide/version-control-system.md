@@ -24,4 +24,4 @@ Git is the most broadly adopted tool of its kind. Vast numbers of developers alr
 
 ## Next
 
-[Go to next chapter: CI-CD](../ci-cd/README.md)
+[Go to next chapter: CI-CD](https://thedevops.guide/guide/ci-cd)
