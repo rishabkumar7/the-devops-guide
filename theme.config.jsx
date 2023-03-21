@@ -22,6 +22,7 @@ export default {
       <meta property="og:url" content={`https://thedevops.guide${asPath}`} />
       <meta property="og:title" content={frontMatter.title || 'The DevOps Guide'} />
       <meta property="og:description" content={frontMatter.description || 'Free and Open Source guide for DevOps'} />
+      <meta property="og:image" content='/logos/TheDevOpsGuide-logos.jpeg' />
     </>
   },
   // FOOTER 
