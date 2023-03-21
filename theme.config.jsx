@@ -12,7 +12,7 @@ export default {
     </a>,
   },
   // HEAD
-  ead: () => {
+  head: () => {
     const { asPath } = useRouter()
     const { frontMatter } = useConfig()
     return <>
