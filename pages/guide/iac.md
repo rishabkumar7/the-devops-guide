@@ -5,6 +5,8 @@
 Infrastructure as Code (IaC) is the managing and provisioning of infrastructure through code instead of through manual processes.
 With IaC, configuration files are created that contain your infrastructure specifications, which makes it easier to edit and distribute configurations.
 
+<iframe width="650" height="380" src="https://www.youtube.com/embed/EIOuIwKS0P0?start=54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Which tool to go for?
 
 I personally recommend Terraform since it's cloud-agnostic, meaning it can work with different Cloud service providers.
