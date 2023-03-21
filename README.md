@@ -1,6 +1,7 @@
 # Welcome to The DevOps Guide
 
 DevOps Guide is an open-source guide to provide you with an outline of skills needed to learn to get into DevOps. At the end of it you should have the technical knowledge of DevOps.
+We have a web version now - [thedevops.guide](https://thedevops.guide)
 
 ## Prerequisite
 
@@ -30,6 +31,6 @@ We have following chapters which covers fundamentals of DevOps:
 
 Please open an [Issue](https://github.com/rishabkumar7/the-devops-guide/issues)
 
-## Start here
+## License
 
-[Let's learn what DevOps is?](devops/README.md)
+[MIT](LICENSE.md)
