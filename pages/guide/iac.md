@@ -5,6 +5,8 @@
 Infrastructure as Code (IaC) is the managing and provisioning of infrastructure through code instead of through manual processes.
 With IaC, configuration files are created that contain your infrastructure specifications, which makes it easier to edit and distribute configurations.
 
+<iframe width="650" height="380" src="https://www.youtube.com/embed/EIOuIwKS0P0?start=54" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Which tool to go for?
 
 I personally recommend Terraform since it's cloud-agnostic, meaning it can work with different Cloud service providers.
@@ -20,7 +22,7 @@ You might have heard of other tools that are specific to a cloud provider, such 
 
 Terraform was developed by [Hashicorp](https://www.hashicorp.com/). It is a configuration orchestration tool that is incredible for provisioning, adjusting and destroying the virtual server environments. It is available both as a DevOps-as-a-Service enterprise-grade from Hashicorp and as an open-source solution, which allows you to work with a variety of Cloud Service Providers to create multi-cloud ecosystems.
 
-![Terraform Diagram](../assets/HashiCorpTerraform.webp)
+![Terraform Diagram](../../assets/HashiCorpTerraform.webp)
 
 ### Resources
 
@@ -31,6 +33,4 @@ Terraform was developed by [Hashicorp](https://www.hashicorp.com/). It is a conf
 | [freeCodeCamp Terraform Course](https://youtu.be/SLB_c_ayRMo) | Terraform Course - Automate your AWS cloud infrastructure |
 | [Terraform notes](https://notes.rishab.cloud/terraform-associate) | Rishab's notes on Terraform |
 
-## Next
 
-[Go to next chapter: Configuration Management](../configuration-management/README.md)

@@ -1,0 +1,14 @@
+{
+  "index": "Introduction",
+  "guide": "Guide",
+  "---": {
+    "type": "separator"
+  },
+  "projects": "Projects",
+  "contact": {
+    "title": "Twitter",
+    "type": "page",
+    "href": "https://twitter.com/devopsguide",
+    "newWindow": true
+  }
+}
