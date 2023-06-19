@@ -5,7 +5,7 @@ export default {
   // PROJECT INFO
   logo: <span>The DevOps Guide</span>,
   project: {
-    link: 'https://thedevops.guide',
+    link: 'https://github.com/rishabkumar7/the-devops-guide',
   },
   docsRepositoryBase: 'https://github.com/rishabkumar7/the-devops-guide/blob/main/',
   banner: {
