@@ -24,7 +24,17 @@ Terraform was developed by [Hashicorp](https://www.hashicorp.com/). It is a conf
 
 ![Terraform Diagram](../../assets/HashiCorpTerraform.webp)
 
-### Resources
+### Courses
+
+#### Deploy infrastructure to Azure with Terraform
+
+<iframe width="650" height="380" src="https://www.youtube.com/embed/HdMB2YCtVr4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### Deploy infrastructure to GCP with Terraform
+
+<iframe width="650" height="380" src="https://youtube.com/embed/VCayKl82Lt8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Other Resources
 
 | Resource | Notes |
 | --- | ----------- |
@@ -32,5 +42,3 @@ Terraform was developed by [Hashicorp](https://www.hashicorp.com/). It is a conf
 | [HashiCorp Learn](https://learn.hashicorp.com/terraform) | Build, change, and destroy infrastructure with Terraform. Start here to learn the basics of Terraform with your favorite cloud provider. |
 | [freeCodeCamp Terraform Course](https://youtu.be/SLB_c_ayRMo) | Terraform Course - Automate your AWS cloud infrastructure |
 | [Terraform notes](https://notes.rishab.cloud/terraform-associate) | Rishab's notes on Terraform |
-
-
