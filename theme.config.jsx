@@ -3,7 +3,13 @@ import { useConfig } from 'nextra-theme-docs'
 
 export default {
   // PROJECT INFO
-  logo: <span>The DevOps Guide</span>,
+  logo: (
+    <>
+    <img src="https://res.cloudinary.com/rishabkumar7/image/upload/v1689261605/thedevopsguide/The_DevOps_Guide_-_Badge_sbxhyi.png" alt="The DevOps Guide" width="4%" height="4%" />
+    <br />
+    <span>The DevOps Guide</span>
+    </>
+  ),
   project: {
     link: 'https://github.com/rishabkumar7/the-devops-guide',
   },
@@ -23,6 +29,10 @@ export default {
       <meta property="og:title" content={frontMatter.title || 'The DevOps Guide'} />
       <meta property="og:description" content={frontMatter.description || 'Free and Open Source guide for DevOps'} />
       <meta property="og:image" content='/logos/TheDevOpsGuide-logos.jpeg' />
+      <link rel="apple-touch-icon" sizes="180x180" href="/logos/favicon_io/apple-touch-icon.png" />
+      <link rel="icon" type="image/png" sizes="32x32" href="/logos/favicon_io/favicon-32x32.png"/>
+      <link rel="icon" type="image/png" sizes="16x16" href="/logos/favicon_io/favicon-16x16.png"/>
+      <link rel="manifest" href="/logos/favicon_io/site.webmanifest"/>
     </>
   },
   // FOOTER 
