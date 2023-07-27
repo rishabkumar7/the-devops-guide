@@ -26,4 +26,4 @@ Chef enables you to manage and scale cloud infrastructure with no downtime or in
 # Resources for Chef
 | Resource | Notes |
 | --- | ----------- |
-| [Chef Automation Tutorials](https://www.youtube.com/watch?v=4aaK2rzzOLc&list=PLsgnv1SN76ILtD3TnVtXpX1hmwjyY9OuT) |
+| [Chef Automation Tutorials](https://www.youtube.com/watch?v=4aaK2rzzOLc&list=PLsgnv1SN76ILtD3TnVtXpX1hmwjyY9OuT) | Chef architecture, installation on Vagrant, and automation setup. |
