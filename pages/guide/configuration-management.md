@@ -12,7 +12,7 @@ I think [Ansible](https://www.ansible.com/) and [Chef](https://www.chef.io/) are
 
 Ansible is an IT automation tool. It can configure systems, deploy software, and orchestrate more advanced IT tasks such as continuous deployments or zero downtime rolling updates. Ansible’s goals are foremost those of simplicity and maximum ease of use.
 
-# Resources for Ansible
+### Resources for Ansible
 
 | Resource | Notes |
 | --- | ----------- |
@@ -23,7 +23,7 @@ Ansible is an IT automation tool. It can configure systems, deploy software, and
 Chef enables you to manage and scale cloud infrastructure with no downtime or interruptions. Freely move applications and configurations from one cloud to another. Chef is integrated with all major cloud providers including Amazon EC2, VMWare, IBM Smartcloud, Rackspace, OpenStack, Windows Azure, Google Compute Engine and others.
 
 
-# Resources for Chef
+### Resources for Chef
 | Resource | Notes |
 | --- | ----------- |
 | [Chef Automation Tutorials](https://www.youtube.com/watch?v=4aaK2rzzOLc&list=PLsgnv1SN76ILtD3TnVtXpX1hmwjyY9OuT) | Chef architecture, installation on Vagrant, and automation setup. |
