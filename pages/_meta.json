@@ -4,7 +4,11 @@
   "---": {
     "type": "separator"
   },
-  "projects": "Projects",
+  "":{
+    "title": "Projects",
+    "type": "separator"},
+  "capstone-project":"Capstone Project",
+  "projects":"More Projects",
   "contact": {
     "title": "Twitter",
     "type": "page",
