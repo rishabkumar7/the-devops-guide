@@ -14,6 +14,6 @@
 - Free and Open Source
 - Resources, tasks, and projects
 
-built with ❤️ by [Rishab](https://twitter.com/rishabk7)
+built with ❤️ by [Rishab](https://twitter.com/rishabincloud)
 
 [GitHub](https://github.com/rishabkumar7/the-devops-guide/)
