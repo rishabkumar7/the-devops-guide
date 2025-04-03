@@ -5,6 +5,5 @@
   "iac": "Infrastructure as Code",
   "configuration-management": "Configuration Management",
   "containerization": "Containerization",
-  "monitoring": "Monitoring & Observability",
-  "capstone-project": "DevOps Capstone Project"
+  "monitoring": "Monitoring & Observability"
 }
