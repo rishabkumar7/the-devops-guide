@@ -34,7 +34,6 @@ export default {
       <link rel="icon" type="image/png" sizes="16x16" href="/logos/favicon_io/favicon-16x16.png"/>
       <link rel="manifest" href="/logos/favicon_io/site.webmanifest"/>
       <script defer data-domain="thedevops.guide" src="https://plausible.rishab.cloud/js/script.outbound-links.js"></script>
-      <script>window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }</script>
 
     </>
   },
