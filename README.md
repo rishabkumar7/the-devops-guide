@@ -39,3 +39,7 @@ Please open an [Issue](https://github.com/rishabkumar7/the-devops-guide/issues)
 ## License
 
 [MIT](LICENSE.md)
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rishabkumar7/the-devops-guide&type=Date)](https://www.star-history.com/#rishabkumar7/the-devops-guide&Date)
