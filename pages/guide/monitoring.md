@@ -24,7 +24,7 @@ Distributed traces track requests as they flow through various services in a mic
 ## Popular Monitoring Tools
 
 ### Prometheus
-Prometheus is an open-source monitoring and alerting toolkit designed for reliability and scalability. It collects metrics from configured targets at given intervals, evaluates rule expressions, and can trigger alerts if conditions are met.
+[Prometheus](https://prometheus.io/) is an open-source monitoring and alerting toolkit designed for reliability and scalability. It collects metrics from configured targets at given intervals, evaluates rule expressions, and can trigger alerts if conditions are met.
 
 **Key Features:**
 - Time-series database optimized for metrics
@@ -34,7 +34,7 @@ Prometheus is an open-source monitoring and alerting toolkit designed for reliab
 - Excellent for Kubernetes monitoring
 
 ### Grafana
-Grafana is an open-source analytics and visualization platform that integrates with various data sources including Prometheus, Elasticsearch, and many others. It's the de facto standard for creating beautiful, interactive dashboards.
+[Grafana](https://grafana.com/) is an open-source analytics and visualization platform that integrates with various data sources including Prometheus, Elasticsearch, and many others. It's the de facto standard for creating beautiful, interactive dashboards.
 
 **Key Features:**
 - Rich visualization options
@@ -51,7 +51,7 @@ The ELK Stack is a powerful collection of open-source tools for log management a
 - **Kibana**: Visualization layer for exploring and analyzing log data
 
 ### Datadog
-Datadog is a comprehensive cloud-based monitoring and analytics platform that provides full-stack observability.
+[Datadog](https://www.datadoghq.com/) is a comprehensive cloud-based monitoring and analytics platform that provides full-stack observability.
 
 **Key Features:**
 - Infrastructure monitoring
@@ -62,7 +62,7 @@ Datadog is a comprehensive cloud-based monitoring and analytics platform that pr
 - Unified platform for metrics, traces, and logs
 
 ### New Relic
-New Relic is an enterprise-grade observability platform that offers deep insights into application performance and user experience.
+[New Relic](https://newrelic.com/) is an enterprise-grade observability platform that offers deep insights into application performance and user experience.
 
 **Key Features:**
 - Full-stack observability
@@ -73,10 +73,10 @@ New Relic is an enterprise-grade observability platform that offers deep insight
 ## Distributed Tracing Tools
 
 ### Jaeger
-Jaeger is an open-source distributed tracing platform originally developed by Uber. It helps monitor and troubleshoot transactions in complex distributed systems.
+[Jaeger](https://www.jaegertracing.io/) is an open-source distributed tracing platform originally developed by Uber. It helps monitor and troubleshoot transactions in complex distributed systems.
 
 ### OpenTelemetry
-OpenTelemetry is a collection of tools, APIs, and SDKs for generating, collecting, and exporting telemetry data (metrics, logs, and traces). It's vendor-neutral and has become the industry standard for instrumentation.
+[OpenTelemetry](https://opentelemetry.io/) is a collection of tools, APIs, and SDKs for generating, collecting, and exporting telemetry data (metrics, logs, and traces). It's vendor-neutral and has become the industry standard for instrumentation.
 
 ## Key Monitoring Concepts
 
